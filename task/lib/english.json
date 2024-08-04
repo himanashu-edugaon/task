@@ -1,0 +1,16 @@
+{
+  "selectLanguage":"Please select your Language",
+  "youCanLanguage":"You can change the language at any time.",
+  "next":"Next",
+  "enterPhone":"Please enter your mobile number",
+  "receiveFourDigit": "You'll receive a 4 digit code to verify next",
+  "continues": "CONTINUE",
+  "phoneNumber": "Phone Number",
+  "codeSent": "Code is sent to {phone}",
+  "didntRecevie":"Didn't receive the code? Request Again",
+  "verifyContinue":"VERIFY AND CONTINUE",
+  "selectProfile":"Please select your profile",
+  "shipper":"Shipper",
+  "loremIpsum":"Lorem ipsum dolor sit amet, consectetur adipiscing",
+  "transport":"Transport"
+}
